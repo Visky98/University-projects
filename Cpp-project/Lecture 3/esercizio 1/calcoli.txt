@@ -1,0 +1,4 @@
+La media della prima colonna è: 0.49718
+La deviazione della prima colonna è: 0.289452
+La media della seconda colonna è: 14.9563
+La deviazione della seconda colonna è: 2.88585
